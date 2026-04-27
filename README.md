@@ -7,6 +7,14 @@ all without touching your Moodle data.
 
 > **Status:** stable. Tested against Moodle 4.4 and 5.x.
 
+## Try it
+
+- **Live demo Moodle:** [moodle.cubite.io](https://moodle.cubite.io) — the
+  plugin running against a real Moodle 5.x instance.
+- **Why we built it:** [Sell Moodle courses with a Next.js storefront](https://cubite.io/blogs/sell-moodle-courses-nextjs-storefront)
+  — the writeup that explains the storefront pattern, the SSO flow, and the
+  alternatives we evaluated.
+
 ## What it does
 
 - **Seamless SSO.** Receives a short-lived JWT from Cubite, validates the
